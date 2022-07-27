@@ -1,0 +1,8 @@
+[{"classID":"111111", "className":"Kỹ thuật lập trình", "teacherID":"1", "startTime":"06:45:00", "endTime":"09:10:00", "day":"2"},
+ {"classID":"112345", "className":"Thiết kế hệ thống nhúng", "teacherID":"2", "startTime":"12:30:00", "endTime":"16:00:00", "day":"6"},
+ {"classID":"190512", "className":"Bóng đá 1", "teacherID":"1", "startTime":"06:45:00", "endTime":"07:45:00", "day":"3"},
+ {"classID":"222222", "className":"Tin học đại cương", "teacherID":"1", "startTime":"09:20:00", "endTime":"11:45:00", "day":"5"},
+ {"classID":"333333", "className":"Kỹ thuật lập trình", "teacherID":"1", "startTime":"12:30:00", "endTime":"14:55:00", "day":"5"},
+ {"classID":"444444", "className":"Tin học đại cương", "teacherID":"2", "startTime":"15:05:00", "endTime":"17:30:00", "day":"5"},
+ {"classID":"555555", "className":"Mạng cảm biến không dây", "teacherID":"2", "startTime":"16:00:00", "endTime":"17:30:00", "day":"6"},
+ {"classID":"666666", "className":"Vi xử lý", "teacherID":"2", "startTime":"18:00:00", "endTime":"20:00:00", "day":"2"}]
